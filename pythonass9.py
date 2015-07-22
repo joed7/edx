@@ -1,0 +1,11 @@
+print "Zero is "+str(4+4-4-4)
+print "One is "+str((4+4)/(4+4))
+print "Two is "+str((4/4)+(4/4))
+print "Three is "+str((4+4+4)/(4))
+print "Four is "+str((4-4)*4+4)
+print "Five is "+str(4 ** (4-4) + 4)
+print "Six is "+str( ((4+4)/4)+4  )
+print "Seven is "+str( 4+4 - (4/4))
+print "Eight is "+str(4+4+4-4)
+print "Nine is "+str(4+4+(4/4))
+
