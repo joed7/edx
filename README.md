@@ -8,4 +8,3 @@ Table Of Contents
 * Python Classes and Objects
 * Mid Term
 * End Terms
-* 
