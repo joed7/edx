@@ -55,3 +55,5 @@ This is a url <http://www.example.com>
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
 example.com (but not on Github, for example).
+
+Head oveer to sample page to sample text [Sample](https://github.com/joed7/edx/blob/master/sample.md)
